@@ -1,0 +1,28 @@
+
+How many words can be formed by using all letters of the word BIHAR ?
+125
+130
+120
+110
+3
+#^
+2 men and 3 boys can do a piece of work in 10 days while 3 men and 2 boys can do the same work in 8 days. In how many days can 2 men and 1 boy do the work ?
+12.3
+12.5
+13
+12.9
+2
+#^
+Peter can cover a certain disance in 1 hr 24 min by covering two-third of the distance at 4 kmph and the rest at 5 kmph. Find the total distance ?
+30
+60
+90
+120
+1
+#^
+In how many different ways can the letters of the word RUMOUR be arranged ?
+qea
+samed
+days
+formed
+4
